@@ -1,4 +1,4 @@
-# AIgebruik
+# AI gebruik
 Voor dit project is gebruikgemaakt van ChatGPT voor taalondersteuning, het verbeteren van, grammatica, formuleringen en het geven van feedback op de structuur van de tekst. De inhoud, analyse van de resultaten en 
 conclusies zijn zelf opgesteld en gecontroleerd.
 
