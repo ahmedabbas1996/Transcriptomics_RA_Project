@@ -88,6 +88,17 @@ De sterke betrokkenheid van de TNF-signaleringsroute sluit naadloos aan bij de k
 
 ---
 
+##Gebruik van GitHub
+
+Tijdens dit transcriptomicsproject heb ik onderzoeksgegevens op een gestructureerde en reproduceerbare manier beheerd met behulp van GitHub en GitHub Desktop. Om overzicht te behouden heb ik een duidelijke mappenstructuur gebruikt, bestaande uit de mappen data, scripts, results en figures. Hierdoor zijn invoerbestanden, analysescripts, resultaten en visualisaties eenvoudig terug te vinden.
+
+Voor versiebeheer heb ik GitHub Desktop gebruikt. Tijdens het project werden wijzigingen opgeslagen met commits, zodat eerdere versies behouden bleven en aanpassingen konden worden gevolgd. Dit maakte het mogelijk om georganiseerd te werken en veranderingen overzichtelijk te documenteren.
+
+De oorspronkelijke dataset is niet aangepast. Verwerkte bestanden en resultaten zijn apart opgeslagen om onderscheid tussen ruwe data en analyse-output te behouden. Om de reproduceerbaarheid van het onderzoek te waarborgen zijn alle gebruikte scripts, invoerbestanden en resultaten opgenomen in de repository. Daarnaast beschrijft de README de uitgevoerde analyses en de structuur van het project.
+
+GitHub werd gebruikt als centraal platform voor het beheren en documenteren van het project. Hierdoor zijn alle onderdelen van de analyse transparant beschikbaar. Door deze werkwijze kan een andere gebruiker de scripts uitvoeren, de resultaten controleren en de analyse opnieuw reproduceren. Deze aanpak sluit aan bij de principes van transparant en betrouwbaar wetenschappelijk onderzoek.
+
+---
 
 ## Referenties
 
