@@ -72,7 +72,7 @@ De KEGG-analyse identificeerde meerdere immuun- en ontstekingsgerelateerde pathw
 
 De Pathview-visualisatie van de TNF-signaleringsroute liet zien dat meerdere genen binnen deze route differentieel geëxprimeerd waren. Zowel opgereguleerde als neer-gereguleerde genen waren zichtbaar binnen verschillende onderdelen van de route, met een duidelijke activatie van downstream inflammatoire cytokines. Dit ondersteunt het belang van de TNF-signaleringsroute bij RA.
 
-![Figuur 5: TNF-signaling pathway](figures/TNF_signaling_pathway.png)
+![Figuur 5: TNF-signaling pathway](figures/TNF-signaling_pathway.png)
 
 *Figuur 5. Visualisatie van differentieel geëxprimeerde genen binnen de TNF-signaleringsroute.*
 
